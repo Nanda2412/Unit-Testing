@@ -32,12 +32,6 @@ Temporary Items
 
 ### VisualStudioCode ###
 .vscode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/c_cpp_properties.json
 
 ###Project specific files
 c2/1/build/
