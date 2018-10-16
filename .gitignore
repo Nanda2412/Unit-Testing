@@ -40,7 +40,7 @@ Temporary Items
 !.vscode/c_cpp_properties.json
 
 ###Project specific files
-!c2/1/build
+!c2/1/build/
 !c2/1/build/*
 !c2/1/build/CMakeFiles/*
 !c2/1/build/CMakeFiles/test.dir/*
