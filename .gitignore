@@ -31,12 +31,22 @@ Temporary Items
 .apdisk
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/c_cpp_properties.json
 
+###Project specific files
+!c2/1/build
+!c2/1/build/*
+!c2/1/build/CMakeFiles/*
+!c2/1/build/CMakeFiles/test.dir/*
+!c2/1/build/CMakeFiles/3.12.3/*
+!c2/1/build/CMakeFiles/3.12.3/CompilerIdC/*
+!c2/1/build/CMakeFiles/3.12.3/CompilerIdCXX/*
 
 # End of https://www.gitignore.io/api/macos,visualstudiocode
 
